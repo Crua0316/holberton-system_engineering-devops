@@ -37,3 +37,5 @@
 * Creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory.
 ## 18-commas
 * List all files and directories in the current directory, separated by commas
+## holberton.mgc
+* can be used with the command file to detect Holberton data files. 
