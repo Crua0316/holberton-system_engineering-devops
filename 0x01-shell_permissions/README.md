@@ -1,5 +1,5 @@
 
-[![Alt text](/wp-smaller.png)](https://miro.medium.com/max/400/0*TzkIBepdEa_IVooC.jpg/ "Holberton")
+[![Alt text](/wp-smaller.png)](http://wordpress.com/ "Holberton")
 
 # Proyect about Shell, permissions
 ## 0-iam_betty
