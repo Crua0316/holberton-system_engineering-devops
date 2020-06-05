@@ -1,5 +1,5 @@
 
-[![Alt text](/wp-smaller.png)](http://wordpress.com/ "Holberton")
+![Image](https://www.exponcapital.com/wp-content/uploads/2017/10/holberton-1.png)
 
 # Proyect about Shell, permissions
 ## 0-iam_betty
