@@ -1,5 +1,5 @@
 
-![Alt](/https://miro.medium.com/max/400/0*TzkIBepdEa_IVooC.jpg
+[![Alt text](/wp-smaller.png)](https://miro.medium.com/max/400/0*TzkIBepdEa_IVooC.jpg/ "Holberton")
 
 # Proyect about Shell, permissions
 ## 0-iam_betty
