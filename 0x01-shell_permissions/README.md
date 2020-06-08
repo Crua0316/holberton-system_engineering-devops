@@ -3,9 +3,7 @@
 ---
 # Proyect about Shell, permissions
 ## 0-iam_betty
-```
 * That changes your user ID to betty.
-```
 ## 1-who_am_i
 * Prints the effective userid of the current user.
 ## 2-groups
