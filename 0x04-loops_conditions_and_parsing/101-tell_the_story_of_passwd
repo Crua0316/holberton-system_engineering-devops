@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# take data from file passwd
+file="/etc/passwd"
+while  IFS=: read -r un pw ui gi uii hd cs
+do
+    echo "The user $un is part of the $gi gang, lives in $hd and rides $cs. $ui's place is protected by the passcode $pw, more info about the user here: $uii"
+done < $file
